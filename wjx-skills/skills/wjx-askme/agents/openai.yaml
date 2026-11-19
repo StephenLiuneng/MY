@@ -1,0 +1,4 @@
+interface:
+  display_name: "WJX AskMe"
+  short_description: "结合代码调查与分轮追问，明确需求范围、业务取舍和验收条件并确认共识。"
+  default_prompt: "用 $wjx-askme 查清当前实现并问透这个需求，整理共识后等我确认再写方案。"

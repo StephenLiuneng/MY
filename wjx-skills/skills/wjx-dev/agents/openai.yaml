@@ -1,0 +1,4 @@
+interface:
+  display_name: "WJX Dev"
+  short_description: "衔接需求澄清、方案文档、执行、Open Code Review 与验收，保留两次确认。"
+  default_prompt: "用 $wjx-dev 处理这个新功能，先澄清需求，确认后写方案，再经确认后执行、Review 并验收。"

@@ -1,0 +1,4 @@
+interface:
+  display_name: "WJX Review"
+  short_description: "直接调用 Open Code Review，核对需求与当前代码、复核问题并报告覆盖范围。"
+  default_prompt: "用 $wjx-review 调用 Open Code Review 审查本次改动，对照需求复核问题；仅 Review 时不要修改代码。"

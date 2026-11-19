@@ -1,0 +1,4 @@
+interface:
+  display_name: "WJX Finish"
+  short_description: "复用当前 Review 结论，完成允许的实际验证与必要修正，满足条件后同步和归档。"
+  default_prompt: "用 $wjx-finish 复核当前 Review 与验收证据，完成允许的验证和修正，满足条件后归档。"
